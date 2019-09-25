@@ -34,8 +34,8 @@ var global;
     var question2 = {
         question: "What is the answer to life, the universe, and everything?",
         answers: {
-            a: "To enjoy how you live your life",
-            b: "To worship a higher power",
+            a: "To live life how you want",
+            b: "To serve a higher power",
             c: "42",
             d: "Don't know",
         },
@@ -43,13 +43,13 @@ var global;
     }
 
     var question3 = {
-        question: "",
+        question: "What time is it?",
         answers: {
-            a: "",
-            b: "",
-            c: "",
+            a: "It's time to duel",
+            b: "Whatever the clock says",
+            c: "It's time to stop",
         },
-        correctAnswer: ""
+        correctAnswer: "a"
     }
 
     // Add the question objects to our array of questions
