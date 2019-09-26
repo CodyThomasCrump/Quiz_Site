@@ -32,12 +32,11 @@ var global;
     }
 
     var question2 = {
-        question: "What is the answer to life, the universe, and everything?",
+        question: "What is one of the classic blunders?",
         answers: {
-            a: "To live life how you want",
-            
-            b: "To serve a higher power",
-            c: "42",
+            a: "Never get into a land war with Asia",
+            b: "Never go in against a sicilian when death is on the line",
+            c: "Both",
             d: "Don't know",
         },
         correctAnswer: "c"
